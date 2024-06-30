@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/_connect-four/static/css/main.2e0d0cd0.css",
+    "main.js": "/_connect-four/static/js/main.71123349.js",
+    "static/media/board-black.svg": "/_connect-four/static/media/board-black.b99860fbd97ad0aa6c1fd0ff6152baa8.svg",
+    "static/media/board-white.svg": "/_connect-four/static/media/board-white.bc2b55762e7bc4c3a93bd185b93a86bd.svg",
+    "static/media/marker-1.svg": "/_connect-four/static/media/marker-1.faa9e28e9c3ef80e43f6327455c583d7.svg",
+    "static/media/marker-2.svg": "/_connect-four/static/media/marker-2.4f36358a1622b4b94ce0aca8d35b79bf.svg",
+    "index.html": "/_connect-four/index.html",
+    "static/media/player-1-disk.svg": "/_connect-four/static/media/player-1-disk.4cbe8e3f81329f7964cebcdce6c67e34.svg",
+    "static/media/player-2-disk.svg": "/_connect-four/static/media/player-2-disk.ffc2a6fe19bb1959b6504b135122e30f.svg",
+    "static/media/winner-circle.svg": "/_connect-four/static/media/winner-circle.fa50baf8a44d55672f1cf91dd13d7d64.svg",
+    "static/media/ok.svg": "/_connect-four/static/media/ok.cf0fe5e2a3e63921e6b99764cc82a796.svg",
+    "main.2e0d0cd0.css.map": "/_connect-four/static/css/main.2e0d0cd0.css.map",
+    "main.71123349.js.map": "/_connect-four/static/js/main.71123349.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2e0d0cd0.css",
+    "static/js/main.71123349.js"
+  ]
+}
